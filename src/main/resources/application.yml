@@ -1,0 +1,15 @@
+mqtt:
+  configuration:
+    client:
+      password: <pwd_placeholder>
+      username: <user_placeholder>
+    broker:
+      port: <port_placeholder>
+      address: <address_placeholder>
+      protocol: <protocol_placeholder>
+      qos1: <qos_placeholder>
+      topic1: <qos_placeholder>
+      qos2: <qos_placeholder>
+      topic2: <topic_placeholder>
+    inbound:
+      clientid: <client_placeholder>
